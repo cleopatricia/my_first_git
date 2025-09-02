@@ -1,1 +1,1 @@
-"hello.git"
+"hello.git"'print("this is halaman dosen")' 
